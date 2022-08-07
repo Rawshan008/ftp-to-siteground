@@ -17,3 +17,4 @@ jobs:
         server: ftp.stuartt45.sg-host.com
         username: ${{ secrets.ftp_username }}
         password: ${{ secrets.ftp_password }}
+        server-dir: stuartt45.sg-host.com/public_html/
